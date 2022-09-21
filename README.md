@@ -1,5 +1,7 @@
 # International Debt Statistics
+### by Himanshu Goswami
 
+---------------------
 ## Introduction
 
 It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly
